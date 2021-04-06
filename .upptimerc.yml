@@ -1,36 +1,25 @@
 # Change these first
-owner: upptime # Your GitHub organization or username
-repo: upptime # Your GitHub repository name
+owner: Savvas Tech Suport # Your GitHub organization or username
+repo: k12tech-test # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: SALT
+    url: https://salt.savvas.com/
   - name: TCP ping
     url: 1.1.1.1
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://github.com/SavvasStephenPartington/k12tech-test/blob/d102276f7b10b5f2fbe2ff414137bd547a4ddd78/favicon.png
+  name: Savvas K12-Tech
+  introTitle: "*powered by upptime monitor and status page, powered entirely by GitHub."
+  introMessage: Savvas Technical Support Uptime testing site
   navbar:
-    - title: Status
+    - title: K12-Tech
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO

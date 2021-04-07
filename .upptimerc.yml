@@ -6,8 +6,10 @@ repo: k12tech-test # Your GitHub repository name
 sites:
   - name: SALT
     url: https://salt.savvas.com/
-  - name: TCP ping
+  - name: DNS TCP ping
     url: 1.1.1.1
+  - name: Savvas Realize Authentication Test
+    url: https://sso.rumba.pk12ls.com/sso/loginService?username=ugoodry_math&password=pearson1&gateway=true&service=https://www.savvasrealize.com/community/home
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain

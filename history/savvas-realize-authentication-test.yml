@@ -1,7 +1,7 @@
 url: https://sso.rumba.pk12ls.com/sso/loginService?username=ugoodry_math&password=pearson1&gateway=true&service=https://www.savvasrealize.com/community/home
 status: up
 code: 200
-responseTime: 1058
-lastUpdated: 2021-08-02T23:15:15.630Z
+responseTime: 860
+lastUpdated: 2021-08-03T23:15:11.388Z
 startTime: Wed Apr 07 2021 21:43:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

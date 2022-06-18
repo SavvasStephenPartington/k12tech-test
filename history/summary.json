@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 445,
-    "timeDay": 186,
-    "timeWeek": 200,
-    "timeMonth": 275,
-    "timeYear": 388,
+    "timeDay": 261,
+    "timeWeek": 222,
+    "timeMonth": 281,
+    "timeYear": 387,
     "dailyMinutesDown": {}
   },
   {
@@ -22,17 +22,17 @@
     "url": "https://sso.rumba.pk12ls.com/sso/loginService?username=ugoodry_math&password=pearson1&gateway=true&service=https://www.savvasrealize.com/community/home",
     "icon": "https://favicons.githubusercontent.com/sso.rumba.pk12ls.com",
     "slug": "savvas-realize-authentication-test",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 500,
-    "timeDay": 770,
-    "timeWeek": 753,
-    "timeMonth": 630,
-    "timeYear": 513,
+    "timeDay": 751,
+    "timeWeek": 754,
+    "timeMonth": 629,
+    "timeYear": 514,
     "dailyMinutesDown": {}
   }
 ]
